@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaderMostafa
-- 👀 I’m interested in Embedded Systems"Robotics"🖥️🤖
+- 👀 I’m interested in Embedded Systems🖥️🤖
 - 🌱 I’m currently learning Embedded Systems in ITI
 - 💞️ I’m looking to collaborate in Automotive Industry 
 - 📫 How to reach me :point_down:
