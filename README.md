@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems🖥️🤖
 - 🌱 I’m currently learning Embedded Systems in ITI
 - 💞️ I’m looking to collaborate in Automotive Industry 
-- 📫 How to reach me :point_down:
+- 📫 Connection :point_down:
 - 🔗 haderms2000@gmail.com    🔗 https://www.linkedin.com/in/hader-mostafa-256851180
 
 <!---
